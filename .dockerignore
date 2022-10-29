@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+db_init/
+.idea
+.git
+.gitignore
+.gitmodules
+README.md
+docker-compose.yml
